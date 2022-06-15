@@ -1,0 +1,394 @@
+
+Question: Dans quel album de Tintin celui-ci rencontre-t-il le capitaine Haddock ?
+A:Le secret de la Licorne
+B:Le Crabe aux Pinces d'Or
+C:L'Affaire Tournesol
+D:Coke en Stock
+Bonne Reponse: B
+
+Question: Quel est le résultat de ce calcul : 5 + 9 x 4 - 6 ?
+A:35
+B:42
+C:10
+D:28
+Bonne Reponse: A
+
+Question: Quelle est la capitale de l'Ukraine ?
+A:Bucarest
+B:Cracovie
+C:Budapest
+D:Kiev
+Bonne Reponse: D
+
+Question: Quelle est la couleur du dragon sur le drapeau gallois ?
+A:Vert
+B:Blanc
+C:Rouge
+D:Jaune
+Bonne Reponse: C
+
+Question: Dans quel roman de Georges Orwell trouve-t-on la figure de Big Brother ?
+A:Rhinocéros 
+B:1984 
+C:Le Meilleur des mondes
+D:Si c'est un homme
+Bonne Reponse:B
+
+Question: De quel film Tony Montana est-il le héros ? 
+A:Le Parrain
+B:Les Affranchis
+C:Montana et ses frères 
+D:Scarface
+Bonne Reponse:D
+
+Question: En 1958, De Gaulle déclare à la foule : « Je vous ai compris ». Mais où ?
+A:Colombey les Eglises 
+B:Alger 
+C:Londres
+D:Paris
+Bonne Reponse:B
+
+Question: Qui est devenu maire de Londres en mai 2016 ?
+A:Theresa May
+B:Sadiq Khan
+C:Boris Johnson
+D:Tony Blair
+Bonne Reponse:B
+
+Question: En quelle année la 1e République française est-elle née ?
+A:1790 
+B:1792
+C:1791
+D:1789
+Bonne Reponse:B
+
+Question:Quel écrivain est le grand représentant du naturalisme ?
+A:Prosper Mérimee
+B:Charles Baudelaire
+C:Emile Zola
+D:Albert Camus
+Bonne Reponse:C
+
+Question:Ou se situe La Valette ?
+A:En Espagne 
+B:Dans l'Hérault 
+C:En Toscane
+D:A Malte
+Bonne Reponse:D
+
+
+Question: Qui est le dessinateur de la BD "Lucky Luke" ?
+A:Franquin
+B:Morris
+C:Uderzo
+D:Gotlib
+Bonne Reponse: B
+
+Question: D'où décolle la fusée européenne Ariane 5 ?
+A:Des Etats-Unis
+B:D'Allemagne
+C:Du Mexique
+D:De Guyanne française
+Bonne Reponse: D
+
+Question: Comment s'appelle le héros du jeu vidéo "Ocarina of Time" ?
+A:Megaman
+B:Zelda
+C:Gomon
+D:Link
+Bonne Reponse: D
+
+Question: Quel est le vrai nom de Dark Vador dans la saga "Star Wars" ?
+A:Luke Skywalker
+B:Anakin Skywalkers
+C:Ben Kenobi
+D:Lando Organa
+Bonne Reponse: B
+
+Question: Qui a chanté "Les mots bleus" ?
+A:Georges Brassens
+B:Francis Cabrel
+C:Christophe
+D:Joe Dassin
+Bonne Reponse: C
+
+Question: Qui a remporté la bataille d'Austerlitz ?
+A:Napoléon
+B:Henri IV
+C:François 1er
+D:Louis XVIII
+Bonne Reponse: A
+
+Question: En quelle année les Américains ont-ils marché pour la première fois sur la Lune ?
+A:1955
+B:1969
+C:1978
+D:1992
+Bonne Reponse: B
+
+Question: Comment est morte Jeanne d'Arc ?
+A:Au combat
+B:Sur un bûcher
+C:Dans son sommeil
+D:Par accident
+Bonne Reponse: B
+
+Question: Quel acteur joue le rôle de Félix dans le film "Le Père Noël est une ordure" ?
+A:Thierry Lhermitte
+B:Christian Clavier
+C:Michel Blanc
+D:Gérard Jugnot
+Bonne Reponse: D
+
+Question: De métal et de verre, sa construction date d'il y a trente ans. Il s'agit de...
+A:L'Arche de la Défense
+B:Le Centre Pompidou
+C:La Pyramide du Louvre
+D:La Tour Eiffel
+Bonne Reponse: C
+
+Question: Comment s'appelle le père de Léandre dans la pièce de théâtre "Les Fourberies de Scapin" ?
+A:Arpagon
+B:Étienne
+C:Cyrano de Bergerac
+D:Géronte
+Bonne Reponse: D
+
+Question: Dans quelle partie du corps se trouve l'humérus ?
+A:La jambe
+B:Le bassin
+C:Le bras
+D:Le crâne
+Bonne Reponse: C
+
+Question: Quel est le nom historique de la citrouille lanterne d'Halloween ?
+A:John
+B:Jack
+C:Joe
+D:Jill
+Bonne Reponse: B
+
+Question: Quel langage de programmation porte le nom d'un animal ?
+A:Python
+B:Penguin
+C:Pangolin
+D:Dolphin
+Bonne Reponse: A
+
+Question: De quel série de jeux vidéo Nathan Drake est-il le personnage principal ?
+A:Uncharted
+B:Tomb Raider
+C:The Legend of Zelda
+D:Mass Effect
+Bonne Reponse: A
+
+Question: Qui défile et concoure pour la meilleure place lors du Carnaval de Rio ?
+A:Les école de danse
+B:Les écoles de peinture
+C:Les école de théâtre
+D:Les écoles de capoeira
+Bonne Reponse: A
+
+Question: Quelle partie du cerveau est responsable de son fonctionnement instinctif ?
+A:Le cerveau kryptonien
+B:Le cerveau reptilien
+C:Le cerveau martien
+D:Le cerveau babylonien
+Bonne Reponse:B 
+
+Question: Quelle nébuleuse est la plus visible depuis la terre ?
+A:La nébuleuse d'orion
+B:La nébuleuse de l'oeuf
+C:La nébuleuse de l'hélice
+D:La nébuleuse de l'aigle
+Bonne Reponse: A
+
+Question: Qui saute le plus haut ?
+A:Le kangourou
+B:Le puma
+C:Le lapin
+D:La puce
+Bonne Reponse: B
+
+Question: Quel pourcentage de déchets plastiques est recyclé en France actuellement ?
+A:7%
+B:24%
+C:54%
+D:89%
+Bonne Reponse: 
+
+Question: Quel est la ville d'origine du Hamburger ?
+A:Ham
+B:Houston
+C:Hongrie
+D:Hambourg
+Bonne Reponse: D
+
+Question: Quel est le plus grand animal ayant vécu sur Terre ?
+A:Le mégalodon
+B:Le brachiosaure
+C:La baleine bleue
+D:Argentinosaurus
+Bonne Reponse: C
+
+Question: Avec quoi étaient fabriqués les lames les plus tranchantes à l'Âge de pierre ?
+A:Du marbre
+B:De l'obsidienne
+C:Du silex
+D:Du cartilage
+Bonne Reponse: B
+
+Question: Qui à importé la fourchette en France ?
+A:Marie Antoinette
+B:Charlemagne
+C:Napoléon Bonaparte
+D:Jeanne D'Arc
+Bonne Reponse: A
+
+Question: Quel est le vrai nom du phasme baton ?
+A:Le phasme Morose
+B:Le phasme Mélancolique
+C:Le phasme Espiègle
+D:Le phasme Tristoune
+Bonne Reponse: A
+
+Question: A quelle vitesse peut aller un Faucon Pèlerin en piqué ?
+A:90km/h
+B:190km/h
+C:390km/h
+D:690km/h
+Bonne Reponse: C
+
+Question: Qu'est-ce qu'un catamaran ?
+A:Une technique de shoot
+B:Un ballon
+C:Un bateau
+D:Un carton rouge
+Bonne Reponse: C
+
+Question: Dans la licence Mario, quel objet permet au personnage de grandir ?
+A:Une étoile
+B:Un fantome
+C:Une feuille
+D:Un champignon
+Bonne Reponse: D
+
+Question: Combien de fois l'Argentine à gagné la coupe du monde ?
+A:0
+B:1
+C:2
+D:3
+Bonne Reponse: C
+
+Question: Quel philosophe grec vivait dans un tonneau ?
+A:Aristote
+B:Protagoras
+C:Socrate
+D:Diogène
+Bonne Reponse: D
+
+Question: Quel philosophe a écrit l'ouvrage "L'Éthique" ?
+A:Schopenhauer
+B:Spinoza
+C:Homère
+D:Freud
+Bonne Reponse: B
+
+Question: Quel est le nom de famille du personnage principal du manga "One Piece" ?
+A:Yagami
+B:Monkey
+C:Saitama
+D:Kozushi
+Bonne Reponse: B
+
+Question: Quel est le seul oiseau capable de voler en marche arrière ?
+A:Le pygargue
+B:Le faucon crécerelle
+C:Le milan royal
+D:Le colibri
+Bonne Reponse: D
+
+Question: De l'ADN de quel animal, l'ADN humain se rapproche-t-il le plus ?
+A:Souris
+B:Cochon
+C:Chimpanzé
+D:Chauve-souris
+Bonne Reponse: C
+
+Question: Quel % de ressemblance existe-t-il entre le génome humain et celui d'un champignon ?
+A:3%
+B:18%
+C:49%
+D:78%
+Bonne Reponse: B
+
+Question: Quelle est l'origine de la majorité de l'oxygène présent dans l'atmosphère terrestre ?
+A:Le plancton végétal
+B:Les arbres
+C:Les champignons
+D:Les rayons solaires
+Bonne Reponse: A
+
+Question: Quel animal à la plus grande espérance de vie ?
+A:Le requin du Groenland
+B:La tortue géante 
+C:La palourde Royale
+D:L'oursin rouge géant
+Bonne Reponse: A
+
+Question: De quel film Disney provient la chanson "Infernale" ? 
+A:Pocahontas
+B:Le Roi Lion
+C:Tarzan
+D:Le Bossu de Notre-Dame
+Bonne Reponse: D
+
+Question: Quelle est la nationalité des héros du film "Rasta Rocket" ?
+A:Sud-africains
+B:Jamaïcains
+C:Britanniques
+D:Brésiliens
+Bonne Reponse: B
+
+Question: Combien de temps doit généralement faire mijoter un boeuf bourguignon ?
+A:1h30
+B:2h30
+C:3h30
+D:4h30
+Bonne Reponse: C
+
+Question: Qui est l'interprète de Peter Pan dans le film " Hook , le retour du capitaine crochet " ?
+A: Robin Williams
+B: Henri Cavill
+C: Tom Hank
+D:Leonardo DiCaprio
+Bonne Reponse: A
+
+Question: En combien de jours Phileas Fogg prétant pouvoir faire le tour du monde ?
+A: Cent-vingt jours
+B: Quatre-vingt dix jours
+C: Quatre-vingt jours
+D: Soixante-dix jours
+Bonne Reponse: C
+
+Question: Dans Animal Crossing sur Switch, quel est le premier animal à qui tu peux t'adresser ?
+A: Un chat
+B: Un raton laveur
+C: Une tortue
+D: Un hiboux
+Bonne Reponse: B
+
+Question: En quel animal peut se transformer San goku dans Dragon Ball ?
+A: En loup
+B: En écureil volant
+C: En guépard
+D: En singe
+Bonne Reponse: D
+
+Question: Quels sont les types des 3 starters dans les jeux Pokémon ?
+A: Eau, Electrique, Feu
+B: Feu, Plante, Combat
+C: Plante, Feu, Eau
+D: Psy, Combat, Plante
+Bonne Reponse: C
+ 

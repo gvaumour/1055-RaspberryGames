@@ -1,0 +1,13 @@
+Question:Who is the author of Romeo and Juliet?
+A:Mark Twain
+B:William Shakespeare
+C:Charles Dickens
+D:Edgar Allan Poe
+Bonne reponse:B
+
+Question: Which country has the most population in the world?
+A:India
+B:the United States
+C:Russia
+D:China
+Bonne reponse:D
